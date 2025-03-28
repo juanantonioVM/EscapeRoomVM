@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/WBP_MenuPrincipal.uasset",
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/InterfazUsuario.umap",
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/Widgets/UW_Menu.uasset",
+				"C:/Users/jadol/OneDrive/Documents/Unreal Projects/EscapeRoomVM/Content/Assets/background-menu.uasset"
+			]
+		}
+	]
+}
